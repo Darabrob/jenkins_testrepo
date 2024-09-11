@@ -17,5 +17,15 @@ public class Main {
 		
 
 	}
+	
+	private void tolleMethode()
+	{
+		
+	}
+	
+	public void tolleMethode()
+	{
+		
+	}
 
 }
