@@ -13,7 +13,7 @@ public class Main {
 		
 		System.out.println("Obstsalat");
 		
-		System.out.println("11BG Hallo");
+		System.out.println("12B381");
 		
 
 	}
